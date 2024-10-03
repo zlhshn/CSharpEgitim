@@ -120,7 +120,7 @@ namespace _02_CSarp_Variables
             //Console.WriteLine("Toplam Ortalama:" + result);
             #endregion
 
-            #region Klavyeden Karakter Girişler
+            #region Klavyeden Karakter(Char) Girişler
 
             //char gender;
 
